@@ -1,0 +1,20 @@
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 60px;
+  background-color: var(--fondo);
+  padding: 20px;
+  border-top: 1px solid #ccc;
+  color: white;
+}
+
+.iconos {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 5px;
+  color: white;
+}
+.icono {
+  width: 30px;
+}

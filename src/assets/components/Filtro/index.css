@@ -1,0 +1,14 @@
+.filtro {
+  margin: 20px 20px 0 20px;
+  padding: 5px;
+  box-shadow: 1px 1px 10px var(--sombra);
+  border-radius: 5px;
+  display: flex;
+  justify-content: end;
+}
+
+#filtro {
+  width: 160px;
+  padding: 5px;
+  border-radius: 5px;
+}
